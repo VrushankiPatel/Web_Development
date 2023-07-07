@@ -1,0 +1,50 @@
+.img1{
+
+	width: 100%;
+	height: auto;
+
+}
+
+
+*{
+	padding: 0;
+	margin: 0;
+	background-color: #CE8CAA;
+	font-family: 'David Libre', serif;
+	color: white;
+}
+
+h1{
+
+	padding-top: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+
+hr{
+
+	width: 30%;
+	margin: auto;
+}
+
+p{
+
+	font-size: 20px;
+	line-height: 1.6;
+	word-spacing: 1px;
+
+
+}
+
+
+
+	img {
+  border-radius: 8px;
+  width: 100%;
+}
+
+
+.row{
+
+	padding: 20px;
+}

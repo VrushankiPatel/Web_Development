@@ -1,0 +1,70 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.navbar-nav{
+	margin-left: 540px;
+
+}
+
+h2{
+	color: white;
+	font-family: 'David Libre', serif;
+}
+
+li{
+	padding: 20px;
+
+}
+
+img{
+	
+	height: 80vh;
+
+
+}
+.div1{
+	width: 100%;
+}
+
+.container-fluid{
+	background-image: url('../Desktop/mahatma.png');
+	opacity: 0.5;
+	height: 90vh;
+	background-repeat: no-repeat;
+}
+
+h1,h3{
+
+	padding-left: 530px;
+	line-height: 2;
+	word-spacing: 1px;
+	text-align: center;
+}
+
+h1{
+	padding-top: 250px;
+}
+
+p{
+	padding-left: 530px;
+	line-height: 2;
+	word-spacing: 1px;
+    text-align: center;
+    font-weight: bolder;
+  	line-height: 4.5;
+}
+
+i{
+	padding: 23px;
+	/*margin: 0 auto;*/
+
+}
+
+
+/*.animate__animated.animate__heartBeat{
+	--animation-duration: infinite;
+}*/
